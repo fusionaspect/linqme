@@ -1015,3 +1015,23 @@ Rendering rescues/layout (not_found)
 Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 16:48:36) [GET]
 Rendering welcome/index
 Completed in 90ms (View: 87, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 16:56:03) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 16:58:56) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 16:59:30) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:40:31) [GET]
+Rendering welcome/index
+Completed in 96ms (View: 93, DB: 0) | 200 OK [http://localhost/]
