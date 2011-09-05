@@ -1035,3 +1035,96 @@ Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
 Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:40:31) [GET]
 Rendering welcome/index
 Completed in 96ms (View: 93, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:05) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:09) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:09) [GET]
+Rendering welcome/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:09) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:10) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:10) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:10) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:10) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:10) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:11) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:11) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:48:11) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2011-09-04 17:48:31) [GET]
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 37ms (View: 4, DB: 1) | 200 OK [http://localhost/rails/info/properties]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 17:50:24) [GET]
+Rendering welcome/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 18:05:36) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 18:15:25) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 19:06:01) [GET]
+Rendering welcome/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2011-09-04 19:12:04) [GET]
+Rendering welcome/index
+Completed in 79ms (View: 76, DB: 0) | 200 OK [http://localhost/]
